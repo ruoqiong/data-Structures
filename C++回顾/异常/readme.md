@@ -1,3 +1,4 @@
+#异常
 ##抛出异常：
 ···cpp
 throw "all parameters should be > 0" //异常类型为：char*<br/>
