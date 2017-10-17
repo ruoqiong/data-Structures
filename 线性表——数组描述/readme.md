@@ -14,7 +14,7 @@
 
 定义一个一维数组$element$来存储线性表的元素，$arrayLength$ 是数组长度或容量，$listSize$记录当前存储的线性表的元素的个数。
 
-线性表元素位置的确定：$location(i)=i$ 该公式也不是唯一的映射方法。
 
-创建一个数组类arrayList，为linearList的派生类
+
+
 
