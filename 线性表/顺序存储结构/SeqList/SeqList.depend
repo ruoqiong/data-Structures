@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521720484 source:d:\code\c++\data_structure\线性表\顺序存储结构\seqlist\seqlist.cpp
+	<iostream>
+	"SeqList.h"
+
+1521720588 d:\code\c++\data_structure\线性表\顺序存储结构\seqlist\seqlist.h
+	<iostream>
+
+1521720506 source:d:\code\c++\data_structure\线性表\顺序存储结构\seqlist\main.cpp
+	<iostream>
+	"SeqList.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521796457 source:d:\code\c++\data_structure\线性表\链式存储结构\单链表\linklist\main.cpp
+	<iostream>
+	"LinkList.h"
+
+1521796508 d:\code\c++\data_structure\线性表\链式存储结构\单链表\linklist\linklist.h
+	<iostream>
+
