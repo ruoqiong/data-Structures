@@ -4,3 +4,5 @@
 + 感谢[大表哥](https://github.com/SkytreeRom)对我的监督
 + 希望可以坚持下去
 
+
+编译环境：codeblocks，gcc version 6.3.0
